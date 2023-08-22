@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ddot-bit.ddot-bit)
 
 <!--
 **ddot-bit/ddot-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ddot-bit.ddot-bit)
 <a href="<[LinkedInURL](https://www.linkedin.com/in/diegopuducay/)>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:diegopuducay@berkeley.edu">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
