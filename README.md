@@ -1,6 +1,6 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ddot-bit.ddot-bit)
 # Diego Puducay
-<a href="<[LinkedInURL](https://www.linkedin.com/in/diegopuducay/)>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/diegopuducay/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:diegopuducay@berkeley.edu">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ---
