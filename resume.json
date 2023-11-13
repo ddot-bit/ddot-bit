@@ -1,0 +1,67 @@
+{
+  "name": "Diego Puducay",
+  "location": "Thousand Oaks, CA 91361",
+  "contact": {
+    "phone": "(510) 708-3126",
+    "github": "yourgithublink",
+    "linkedin": "yourlinkedinlink",
+    "gmail": "yourgmailaddress"
+  },
+  "technical_skills": [
+    "Python",
+    "AWS (Lambda, SQS, S3, CDK, EventBridge, DynamoDB, Step Functions)",
+    "FastAPI",
+    "Gitlab",
+    "Pandas",
+    "Jupyter"
+  ],
+  "professional_experience": [
+    {
+      "company": "PennyMac - Software Developer",
+      "dates": "June 2022 - Present",
+      "highlights": [
+        "Serverless backend on AWS (Python, boto3, CDK, Gitlab).",
+        "Agile Principles, Scrum, Jira, Confluence, Newrelic, Sonarcube."
+      ]
+    },
+    {
+      "company": "PennyMac - Internship: Software Developer",
+      "dates": "June 2022 - Nov 2022",
+      "highlights": ["Integrated tickets into proprietary code base."]
+    },
+    {
+      "company": "Yosemite Community College District - Anthropology Lab Assistant",
+      "dates": "Dec 2018 - May 2019",
+      "highlights": [
+        "Managed specimen data in Microsoft Office.",
+        "Conducted research and preprocessing."
+      ]
+    }
+  ],
+  "education": {
+    "university": "University of California, Berkeley",
+    "degree": "Bachelor of Data Science",
+    "graduation_date": "May 2022",
+    "emphasis": "Model engineering, machine learning, optimization."
+  },
+  "projects": [
+    {
+      "name": "Serverless Transformer Model",
+      "highlights": ["Deployed neural language model on AWS."]
+    },
+    {
+      "name": "Build Your Own World",
+      "highlights": ["Collaborative two-dimensional world construction on Github."]
+    },
+    {
+      "name": "Neural Language Models for Sentiment Analysis",
+      "highlights": ["Convolutional Neural Networks for movie reviews."]
+    }
+  ],
+  "achievements_and_skills": [
+    "Contributed to AWS serverless app development.",
+    "Applied Agile in Scrum environment.",
+    "Proficient in Jira, Confluence, Newrelic, Sonarcube.",
+    "Successful software development internship."
+  ]
+}
